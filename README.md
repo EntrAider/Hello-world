@@ -3,6 +3,7 @@ Un guide pour débuter avec GitHub qui se trouve à cette adresse-ci :
 https://guides.github.com/activities/hello-world/
 
 Et maintenant la modification d'un fichier à partir d'une branche parallèle à la branche principale.
+Une fois les modifications effectuées et validées, la branche utilisée temporairement pour gérer les divers phases de modifications peut être supprimée après avoir au préalable faitt le Merge request
 
 ## Basic writing and formatting syntax
 https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
