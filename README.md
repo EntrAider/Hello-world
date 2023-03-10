@@ -1,4 +1,4 @@
-# Accès aux pages wiki ! [Page principale du Wiki](/wiki)
+# Accès aux pages wiki ! [Page principale du Wiki](../../wiki)
 
 # Hello-world
 Un guide pour débuter avec GitHub qui se trouve à cette adresse-ci :
